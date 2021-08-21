@@ -1,0 +1,47 @@
+<AssetPackage Name="billtt-changzhi-airport" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Changzhi Airport</Title>
+		<Manufacturer/>
+		<Creator>billtt</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\billtt-changzhi-airport\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\billtt-changzhi-airport</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ZBCZ-contentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\zbcz-changzhi-airport\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\zbcz-changzhi-airport\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="zbcz-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\world\scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="zbcz-models">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\billtt-zbcz-changzhi-airport-modelLib\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
