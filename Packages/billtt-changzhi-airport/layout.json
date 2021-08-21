@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/billtt-changzhi-airport/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132386306720000000
+    },
+    {
+      "path": "ContentInfo/zbcz-changzhi-airport/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132386306720000000
+    },
+    {
+      "path": "scenery/global/scenery/billtt-zbcz-changzhi-airport-modelLib.BGL",
+      "size": 56,
+      "date": 132739503813477314
+    },
+    {
+      "path": "scenery/world/scenery/zbcz-airport.bgl",
+      "size": 97582,
+      "date": 132739503814500025
+    }
+  ]
+}
